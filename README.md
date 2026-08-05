@@ -39,19 +39,15 @@
 **Backend**
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
 
 **Databases & ORMs**
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 **Tools & Testing**
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
@@ -61,9 +57,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | 🌾 **[FlahaaPro](https://github.com/Mouad-MCH)** | SaaS for agricultural worker management: attendance, task assignment, payroll & PDF payslips | MERN, JWT, TypeScript |
-| 📖 **[Baz Academy](https://github.com/Mouad-MCH)** | Arabic e-learning platform with AI-powered summaries/quizzes, course importer, Stripe payments | Next.js 15, NestJS, Drizzle, pgvector |
 | 🎬 **[AniVerse](https://github.com/Mouad-MCH)** | Anime discovery SPA using the Jikan API | React 19, Redux Toolkit, React Router v7 |
-| 📂 **[DevTrack](https://github.com/Mouad-MCH)** | SaaS for developer-client project management with Stripe & gated file delivery | MERN, Stripe |
 | 💰 **[InvoiceFund / Crowdfunder](https://github.com/Mouad-MCH)** | Crowdfunding single-page application | React, Redux Toolkit |
 | 🧾 **[SubLedger API](https://github.com/Mouad-MCH)** | FinTech backend API with full test coverage | Node.js, Express, MongoDB, Vitest |
 
