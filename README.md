@@ -80,9 +80,9 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://mostaql.com/u/YOUR-USERNAME"><img src="https://img.shields.io/badge/-Mostaql-1DBF73?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://mostaql.com/u/Mouad_MCH_021"><img src="https://img.shields.io/badge/-Mostaql-1DBF73?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/mouad-charadi-b8b636316/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mouadcharadi021@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
