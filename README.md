@@ -1,27 +1,27 @@
 <!--
   Mouad Charadi — Full-Stack Web Developer
   Portfolio: https://mch-22.vercel.app
-  MERN & Next.js · NestJS · TypeScript · SaaS · Arabic e-learning · RAG-based AI features
+  MERN & Next.js · Express · TypeScript · SaaS · Arabic e-learning · RAG-based AI features
 -->
 
 <div align="center">
 
-<a href="https://mch-22.vercel.app"><img src="design/01-hero.svg" width="100%" alt="Mouad Charadi — Full-Stack Web Developer in Morocco. MERN, Next.js, NestJS, TypeScript, PostgreSQL, GSAP." /></a>
+<a href="https://mch-22.vercel.app"><img src="design/01-hero.svg" width="100%" alt="Mouad Charadi — Full-Stack Web Developer in Morocco. MERN, Next.js, Express, TypeScript, PostgreSQL, GSAP." /></a>
 
 <p>
 <b>Mouad Charadi</b> is a <b>Full-Stack Web Developer</b> based in Morocco.<br/>
 I build products <b>end-to-end</b> — from database design to pixel-perfect, animated interfaces —
-with the <b>MERN stack</b> <i>(MongoDB · Express · React · Node.js)</i>, <b>Next.js</b>, <b>NestJS</b> and <b>TypeScript</b>.<br/>
+with the <b>MERN stack</b> <i>(MongoDB · Express · React · Node.js)</i>, <b>Next.js</b> and <b>TypeScript</b>.<br/>
 Trained at <b>École Numérique Ahmed Al Hansali (ENAA)</b> · freelancing on <a href="https://mostaql.com/u/Mouad_MCH_021"><b>Mostaql</b></a>.
 </p>
 
-<img src="design/02-architecture.svg" width="100%" alt="How I build: Next.js interface, NestJS typed API with JWT, MongoDB and PostgreSQL data, AI and RAG features, Docker with CI and Vitest — TypeScript everywhere." />
+<img src="design/02-architecture.svg" width="100%" alt="How I build: Next.js interface, Express REST API with JWT, MongoDB and PostgreSQL data, AI and RAG features, Docker with CI and Vitest — TypeScript everywhere." />
 
 <img src="design/03-craft.svg" width="100%" alt="The work: SaaS platforms, APIs, interfaces, Arabic and RTL, delivery. Currently refining RAG features, TypeScript, testing, motion and Linux." />
 
-<img src="design/04-tools.svg" width="100%" alt="Tools: JavaScript, TypeScript, HTML, CSS, React, Next.js, Redux, Tailwind, Vite, GSAP, Node.js, Express, NestJS, MongoDB, PostgreSQL, Docker, GitHub Actions, Vitest, Linux, Git." />
+<img src="design/04-tools.svg" width="100%" alt="Tools: JavaScript, TypeScript, HTML, CSS, React, Next.js, Redux, Tailwind, Vite, GSAP, Node.js, Express, MongoDB, PostgreSQL, Docker, GitHub Actions, Vitest, Linux, Git." />
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,redux,tailwind,vite,nodejs,express,nestjs,mongodb,postgres,docker,githubactions,vitest,git,linux,ubuntu,vscode,github&perline=11" alt="JavaScript, TypeScript, HTML, CSS, React, Next.js, Redux, Tailwind CSS, Vite, Node.js, Express, NestJS, MongoDB, PostgreSQL, Docker, GitHub Actions, Vitest, Git, Linux, Ubuntu, VS Code, GitHub" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,redux,tailwind,vite,nodejs,express,mongodb,postgres,docker,githubactions,vitest,git,linux,ubuntu,vscode,github&perline=11" alt="JavaScript, TypeScript, HTML, CSS, React, Next.js, Redux, Tailwind CSS, Vite, Node.js, Express, MongoDB, PostgreSQL, Docker, GitHub Actions, Vitest, Git, Linux, Ubuntu, VS Code, GitHub" />
 
 <img src="design/05-focus.svg" width="100%" alt="Areas of focus: building FlahaaPro and Baz Academy; exploring AI and LLMs, Linux system administration and CAD." />
 
@@ -52,7 +52,7 @@ Trained at <b>École Numérique Ahmed Al Hansali (ENAA)</b> · freelancing on <a
 
 ### Mouad Charadi — Full-Stack Web Developer
 
-**Mouad Charadi** (GitHub: [@Mouad-MCH](https://github.com/Mouad-MCH)) is a Full-Stack Web Developer based in Morocco, trained at École Numérique Ahmed Al Hansali (ENAA). He builds products end-to-end with the MERN stack, Next.js, NestJS and TypeScript, and freelances on Mostaql.
+**Mouad Charadi** (GitHub: [@Mouad-MCH](https://github.com/Mouad-MCH)) is a Full-Stack Web Developer based in Morocco, trained at École Numérique Ahmed Al Hansali (ENAA). He builds products end-to-end with the MERN stack, Next.js and TypeScript, and freelances on Mostaql.
 
 | | |
 |---|---|
@@ -60,7 +60,7 @@ Trained at <b>École Numérique Ahmed Al Hansali (ENAA)</b> · freelancing on <a
 | **Location** | Morocco |
 | **Training** | École Numérique Ahmed Al Hansali (ENAA) |
 | **Frontend** | React, Next.js, Redux Toolkit, Tailwind CSS, Vite, GSAP |
-| **Backend** | Node.js, Express, NestJS, JWT |
+| **Backend** | Node.js, Express, JWT, REST APIs |
 | **Data** | MongoDB, PostgreSQL |
 | **Delivery** | Docker, GitHub Actions, Vitest, Linux |
 | **Languages** | Darija, French, English |
@@ -74,7 +74,7 @@ Trained at <b>École Numérique Ahmed Al Hansali (ENAA)</b> · freelancing on <a
 | Project | Description | Stack |
 |---|---|---|
 | **[FlahaaPro](https://github.com/Mouad-MCH)** (فلاحة برو) | SaaS for agricultural worker management: attendance, task assignment, payroll and PDF payslips — ENAA final-year project | MERN, JWT, TypeScript |
-| **[Baz Academy](https://github.com/Mouad-MCH)** (أكاديمية باز) | Arabic e-learning platform with RAG-based AI features | Next.js, NestJS |
+| **[Baz Academy](https://github.com/Mouad-MCH)** (أكاديمية باز) | Arabic e-learning platform with RAG-based AI features | Next.js, RAG |
 | **[AniVerse](https://github.com/Mouad-MCH)** | Anime discovery SPA using the Jikan API | React 19, Redux Toolkit, React Router v7 |
 | **[InvoiceFund / Crowdfunder](https://github.com/Mouad-MCH)** | Crowdfunding single-page application | React, Redux Toolkit |
 | **[SubLedger API](https://github.com/Mouad-MCH)** | FinTech backend API with full test coverage | Node.js, Express, MongoDB, Vitest |
@@ -82,13 +82,13 @@ Trained at <b>École Numérique Ahmed Al Hansali (ENAA)</b> · freelancing on <a
 #### Frequently asked
 
 **Who is Mouad Charadi?**
-A Full-Stack Web Developer from Morocco, trained at ENAA, who builds products end-to-end with MERN, Next.js, NestJS and TypeScript.
+A Full-Stack Web Developer from Morocco, trained at ENAA, who builds products end-to-end with MERN, Next.js and TypeScript.
 
 **What is he building?**
 FlahaaPro, a MERN SaaS for agricultural worker management, and Baz Academy, an Arabic e-learning platform with RAG-based AI features.
 
 **Which technologies does he use?**
-React, Next.js, Redux, Tailwind CSS and GSAP on the frontend; Node.js, Express and NestJS on the backend; MongoDB and PostgreSQL for data; Docker, GitHub Actions and Vitest for delivery.
+React, Next.js, Redux, Tailwind CSS and GSAP on the frontend; Node.js and Express on the backend; MongoDB and PostgreSQL for data; Docker, GitHub Actions and Vitest for delivery.
 
 **What else is he interested in?**
 AI and LLMs, Linux system administration and CAD — with a background in physics (electronics). Daily driver: Ubuntu on a ThinkPad T460s.
