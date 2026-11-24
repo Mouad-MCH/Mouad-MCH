@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="490" viewBox="0 0 1000 490" fill="none">
+<defs>
+  <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#ffffff" stop-opacity="0.055"/>
+    <stop offset="1" stop-color="#ffffff" stop-opacity="0.015"/>
+  </linearGradient>
+  <linearGradient id="name" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#ffffff"/>
+    <stop offset="1" stop-color="#8e8e93"/>
+  </linearGradient>
+  <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#cfe3ff" stop-opacity="0"/>
+    <stop offset="0.5" stop-color="#cfe3ff" stop-opacity="0.9"/>
+    <stop offset="1" stop-color="#cfe3ff" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="blur" x="-20%" y="-200%" width="140%" height="500%"><feGaussianBlur stdDeviation="6"/></filter>
+
+</defs>
+<text x="500.0" y="56" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#6e6e73" fill-opacity="1" text-anchor="middle" letter-spacing="3.5">HOW I BUILD</text>
+<text x="500.0" y="108" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="40" font-weight="600" fill="#f5f5f7" fill-opacity="1" text-anchor="middle" letter-spacing="-1">One product. Every layer.</text>
+<path d="M190 300 H810" stroke="#ffffff" stroke-opacity="0.22" stroke-dasharray="3 5" stroke-width="1.2"/>
+<path d="M425.0 200 H395 V269.0" stroke="#ffffff" stroke-opacity="0.22" stroke-dasharray="3 5" stroke-width="1.2"/>
+<circle cx="395" cy="200" r="3" fill="#f5f5f7" fill-opacity="0.75"/>
+<path d="M575.0 200 H605 V269.0" stroke="#ffffff" stroke-opacity="0.22" stroke-dasharray="3 5" stroke-width="1.2"/>
+<circle cx="605" cy="200" r="3" fill="#f5f5f7" fill-opacity="0.75"/>
+<path d="M425.0 400 H395 V331.0" stroke="#ffffff" stroke-opacity="0.22" stroke-dasharray="3 5" stroke-width="1.2"/>
+<circle cx="395" cy="400" r="3" fill="#f5f5f7" fill-opacity="0.75"/>
+<path d="M575.0 400 H605 V331.0" stroke="#ffffff" stroke-opacity="0.22" stroke-dasharray="3 5" stroke-width="1.2"/>
+<circle cx="605" cy="400" r="3" fill="#f5f5f7" fill-opacity="0.75"/>
+<circle r="3.2" fill="#cfe3ff"><animateMotion path="M190 300 H810" dur="6s" begin="-0.0s" repeatCount="indefinite"/></circle>
+<circle r="3.2" fill="#cfe3ff"><animateMotion path="M425.0 200 H395 V269.0" dur="4s" begin="-1.3s" repeatCount="indefinite"/></circle>
+<circle r="3.2" fill="#cfe3ff"><animateMotion path="M575.0 400 H605 V331.0" dur="4s" begin="-2.6s" repeatCount="indefinite"/></circle>
+<circle cx="292.5" cy="300" r="3" fill="#f5f5f7" fill-opacity="0.75"/>
+<circle cx="500.0" cy="300" r="3" fill="#f5f5f7" fill-opacity="0.75"/>
+<circle cx="707.5" cy="300" r="3" fill="#f5f5f7" fill-opacity="0.75"/>
+<rect x="115.0" y="269.0" width="150" height="62" rx="12" fill="#15181e" stroke="#ffffff" stroke-opacity="0.12"/>
+<text x="190" y="298" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#f5f5f7" fill-opacity="1" text-anchor="middle" letter-spacing="0">Next.js</text>
+<text x="190" y="317" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="11" font-weight="400" fill="#6e6e73" fill-opacity="1" text-anchor="middle" letter-spacing="0">Interface</text>
+<rect x="320.0" y="269.0" width="150" height="62" rx="12" fill="#15181e" stroke="#ffffff" stroke-opacity="0.12"/>
+<text x="395" y="298" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#f5f5f7" fill-opacity="1" text-anchor="middle" letter-spacing="0">NestJS</text>
+<text x="395" y="317" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="11" font-weight="400" fill="#6e6e73" fill-opacity="1" text-anchor="middle" letter-spacing="0">Typed API · JWT</text>
+<rect x="530.0" y="269.0" width="150" height="62" rx="12" fill="#15181e" stroke="#ffffff" stroke-opacity="0.12"/>
+<text x="605" y="298" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#f5f5f7" fill-opacity="1" text-anchor="middle" letter-spacing="0">MongoDB</text>
+<text x="605" y="317" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="11" font-weight="400" fill="#6e6e73" fill-opacity="1" text-anchor="middle" letter-spacing="0">Data model</text>
+<rect x="735.0" y="269.0" width="150" height="62" rx="12" fill="#15181e" stroke="#ffffff" stroke-opacity="0.12"/>
+<text x="810" y="298" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#f5f5f7" fill-opacity="1" text-anchor="middle" letter-spacing="0">PostgreSQL</text>
+<text x="810" y="317" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="11" font-weight="400" fill="#6e6e73" fill-opacity="1" text-anchor="middle" letter-spacing="0">Relational data</text>
+<rect x="425.0" y="169.0" width="150" height="62" rx="12" fill="#15181e" stroke="#ffffff" stroke-opacity="0.12"/>
+<text x="500" y="198" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#f5f5f7" fill-opacity="1" text-anchor="middle" letter-spacing="0">AI · RAG</text>
+<text x="500" y="217" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="11" font-weight="400" fill="#6e6e73" fill-opacity="1" text-anchor="middle" letter-spacing="0">Search · answers</text>
+<rect x="425.0" y="369.0" width="150" height="62" rx="12" fill="#15181e" stroke="#ffffff" stroke-opacity="0.12"/>
+<text x="500" y="398" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#f5f5f7" fill-opacity="1" text-anchor="middle" letter-spacing="0">Docker</text>
+<text x="500" y="417" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="11" font-weight="400" fill="#6e6e73" fill-opacity="1" text-anchor="middle" letter-spacing="0">CI · Vitest</text>
+<text x="500.0" y="470" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#6e6e73" fill-opacity="1" text-anchor="middle" letter-spacing="0">TypeScript everywhere — from the schema to the last pixel.</text>
+<path d="M340 478 H660" stroke="#ffffff" stroke-opacity="0.12"/>
+
+</svg>

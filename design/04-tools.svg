@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="462" viewBox="0 0 1000 462" fill="none">
+<defs>
+  <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#ffffff" stop-opacity="0.055"/>
+    <stop offset="1" stop-color="#ffffff" stop-opacity="0.015"/>
+  </linearGradient>
+  <linearGradient id="name" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#ffffff"/>
+    <stop offset="1" stop-color="#8e8e93"/>
+  </linearGradient>
+  <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#cfe3ff" stop-opacity="0"/>
+    <stop offset="0.5" stop-color="#cfe3ff" stop-opacity="0.9"/>
+    <stop offset="1" stop-color="#cfe3ff" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="blur" x="-20%" y="-200%" width="140%" height="500%"><feGaussianBlur stdDeviation="6"/></filter>
+
+</defs>
+<text x="500.0" y="56" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#6e6e73" fill-opacity="1" text-anchor="middle" letter-spacing="3.5">TOOLS OF THE CRAFT</text>
+<text x="500.0" y="108" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="40" font-weight="600" fill="#f5f5f7" fill-opacity="1" text-anchor="middle" letter-spacing="-1">Chosen with intent.</text>
+<rect x="150" y="140" width="700" height="292" rx="14" fill="url(#card)"/>
+<rect x="150.5" y="140.5" width="699" height="291" rx="14" stroke="#ffffff" stroke-opacity="0.09"/>
+<text x="176" y="176" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" fill="#6e6e73" fill-opacity="1" text-anchor="start" letter-spacing="2.5">FRONTEND</text>
+<text x="824" y="176" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#a1a1a6" fill-opacity="1" text-anchor="end" letter-spacing="0">React · Next.js · Redux · Tailwind · Vite · GSAP</text>
+<path d="M151 194 H849" stroke="#ffffff" stroke-opacity="0.06"/>
+<text x="176" y="222" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" fill="#6e6e73" fill-opacity="1" text-anchor="start" letter-spacing="2.5">BACKEND</text>
+<text x="824" y="222" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#a1a1a6" fill-opacity="1" text-anchor="end" letter-spacing="0">Node.js · Express · NestJS · JWT</text>
+<path d="M151 240 H849" stroke="#ffffff" stroke-opacity="0.06"/>
+<text x="176" y="268" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" fill="#6e6e73" fill-opacity="1" text-anchor="start" letter-spacing="2.5">DATA</text>
+<text x="824" y="268" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#a1a1a6" fill-opacity="1" text-anchor="end" letter-spacing="0">MongoDB · PostgreSQL</text>
+<path d="M151 286 H849" stroke="#ffffff" stroke-opacity="0.06"/>
+<text x="176" y="314" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" fill="#6e6e73" fill-opacity="1" text-anchor="start" letter-spacing="2.5">LANGUAGES</text>
+<text x="824" y="314" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#a1a1a6" fill-opacity="1" text-anchor="end" letter-spacing="0">TypeScript · JavaScript · HTML · CSS</text>
+<path d="M151 332 H849" stroke="#ffffff" stroke-opacity="0.06"/>
+<text x="176" y="360" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" fill="#6e6e73" fill-opacity="1" text-anchor="start" letter-spacing="2.5">DEVOPS &amp; QA</text>
+<text x="824" y="360" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#a1a1a6" fill-opacity="1" text-anchor="end" letter-spacing="0">Docker · GitHub Actions · Vitest · Git · Linux</text>
+<path d="M151 378 H849" stroke="#ffffff" stroke-opacity="0.06"/>
+<text x="176" y="406" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" fill="#6e6e73" fill-opacity="1" text-anchor="start" letter-spacing="2.5">AI</text>
+<text x="824" y="406" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#a1a1a6" fill-opacity="1" text-anchor="end" letter-spacing="0">LLMs · RAG</text>
+
+</svg>

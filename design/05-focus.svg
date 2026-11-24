@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="452" viewBox="0 0 1000 452" fill="none">
+<defs>
+  <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#ffffff" stop-opacity="0.055"/>
+    <stop offset="1" stop-color="#ffffff" stop-opacity="0.015"/>
+  </linearGradient>
+  <linearGradient id="name" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#ffffff"/>
+    <stop offset="1" stop-color="#8e8e93"/>
+  </linearGradient>
+  <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#cfe3ff" stop-opacity="0"/>
+    <stop offset="0.5" stop-color="#cfe3ff" stop-opacity="0.9"/>
+    <stop offset="1" stop-color="#cfe3ff" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="blur" x="-20%" y="-200%" width="140%" height="500%"><feGaussianBlur stdDeviation="6"/></filter>
+
+</defs>
+<text x="500.0" y="56" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#6e6e73" fill-opacity="1" text-anchor="middle" letter-spacing="3.5">AREAS OF FOCUS</text>
+<text x="500.0" y="108" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="40" font-weight="600" fill="#f5f5f7" fill-opacity="1" text-anchor="middle" letter-spacing="-1">Where I do my best work.</text>
+<rect x="150.0" y="140" width="340" height="282" rx="14" fill="url(#card)"/>
+<rect x="150.5" y="140.5" width="339" height="281" rx="14" stroke="#ffffff" stroke-opacity="0.09"/>
+<text x="176.0" y="180" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#f5f5f7" fill-opacity="1" text-anchor="start" letter-spacing="0">Roles I build in</text>
+<text x="176.0" y="222" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="600" fill="#f5f5f7" fill-opacity="1" text-anchor="start" letter-spacing="0">Full-Stack / MERN Engineering</text>
+<text x="176.0" y="241" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#6e6e73" fill-opacity="1" text-anchor="start" letter-spacing="0">Products from schema to UI</text>
+<text x="176.0" y="276" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="600" fill="#f5f5f7" fill-opacity="1" text-anchor="start" letter-spacing="0">Next.js &amp; NestJS</text>
+<text x="176.0" y="295" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#6e6e73" fill-opacity="1" text-anchor="start" letter-spacing="0">Typed, modern web platforms</text>
+<text x="176.0" y="330" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="600" fill="#f5f5f7" fill-opacity="1" text-anchor="start" letter-spacing="0">Frontend &amp; Motion</text>
+<text x="176.0" y="349" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#6e6e73" fill-opacity="1" text-anchor="start" letter-spacing="0">Pixel-perfect, animated interfaces</text>
+<text x="176.0" y="384" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="600" fill="#f5f5f7" fill-opacity="1" text-anchor="start" letter-spacing="0">Freelance</text>
+<text x="176.0" y="403" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#6e6e73" fill-opacity="1" text-anchor="start" letter-spacing="0">Client projects on Mostaql</text>
+<rect x="510.0" y="140" width="340" height="282" rx="14" fill="url(#card)"/>
+<rect x="510.5" y="140.5" width="339" height="281" rx="14" stroke="#ffffff" stroke-opacity="0.09"/>
+<text x="536.0" y="180" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#f5f5f7" fill-opacity="1" text-anchor="start" letter-spacing="0">Problems I like</text>
+<text x="536.0" y="222" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="600" fill="#f5f5f7" fill-opacity="1" text-anchor="start" letter-spacing="0">SaaS for real businesses</text>
+<text x="536.0" y="241" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#6e6e73" fill-opacity="1" text-anchor="start" letter-spacing="0">FlahaaPro — workers, tasks and payroll</text>
+<text x="536.0" y="276" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="600" fill="#f5f5f7" fill-opacity="1" text-anchor="start" letter-spacing="0">E-learning</text>
+<text x="536.0" y="295" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#6e6e73" fill-opacity="1" text-anchor="start" letter-spacing="0">Baz Academy — Arabic-first learning</text>
+<text x="536.0" y="330" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="600" fill="#f5f5f7" fill-opacity="1" text-anchor="start" letter-spacing="0">AI-powered apps</text>
+<text x="536.0" y="349" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#6e6e73" fill-opacity="1" text-anchor="start" letter-spacing="0">RAG search and assistants</text>
+<text x="536.0" y="384" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="600" fill="#f5f5f7" fill-opacity="1" text-anchor="start" letter-spacing="0">Developer tooling</text>
+<text x="536.0" y="403" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#6e6e73" fill-opacity="1" text-anchor="start" letter-spacing="0">Linux, automation and workflows</text>
+
+</svg>

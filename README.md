@@ -1,251 +1,104 @@
+<!--
+  Mouad Charadi — Full-Stack Web Developer
+  MERN & Next.js · NestJS · TypeScript · SaaS · Arabic e-learning · RAG-based AI features
+-->
+
 <div align="center">
 
-<h1>Hi, I'm Mouad 👋</h1>
-
-<h3>Full-Stack Developer | Web Application Engineer</h3>
+<img src="https://raw.githubusercontent.com/Mouad-MCH/Mouad-MCH/design/01-hero.svg" width="100%" alt="Mouad Charadi — Full-Stack Web Developer in Morocco. MERN, Next.js, NestJS, TypeScript, PostgreSQL, GSAP." />
 
 <p>
-  Building modern web applications with React, Node.js, Express and MongoDB.
-  <br/>
-  Passionate about software engineering, clean architecture and solving real-world problems.
+<b>Mouad Charadi</b> is a <b>Full-Stack Web Developer</b> based in Morocco.<br/>
+I build products <b>end-to-end</b> — from database design to pixel-perfect, animated interfaces —
+with the <b>MERN stack</b> <i>(MongoDB · Express · React · Node.js)</i>, <b>Next.js</b>, <b>NestJS</b> and <b>TypeScript</b>.<br/>
+Trained at <b>École Numérique Ahmed Al Hansali (ENAA)</b> · freelancing on <a href="https://mostaql.com/u/Mouad_MCH_021"><b>Mostaql</b></a>.
 </p>
+
+<img src="https://raw.githubusercontent.com/Mouad-MCH/Mouad-MCH/design/02-architecture.svg" width="100%" alt="How I build: Next.js interface, NestJS typed API with JWT, MongoDB and PostgreSQL data, AI and RAG features, Docker with CI and Vitest — TypeScript everywhere." />
+
+<img src="https://raw.githubusercontent.com/Mouad-MCH/Mouad-MCH/design/03-craft.svg" width="100%" alt="The work: SaaS platforms, APIs, interfaces, Arabic and RTL, delivery. Currently refining RAG features, TypeScript, testing, motion and Linux." />
+
+<img src="https://raw.githubusercontent.com/Mouad-MCH/Mouad-MCH/design/04-tools.svg" width="100%" alt="Tools: JavaScript, TypeScript, HTML, CSS, React, Next.js, Redux, Tailwind, Vite, GSAP, Node.js, Express, NestJS, MongoDB, PostgreSQL, Docker, GitHub Actions, Vitest, Linux, Git." />
+
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,redux,tailwind,vite,nodejs,express,nestjs,mongodb,postgres,docker,githubactions,vitest,git,linux,ubuntu,vscode,github&perline=11" alt="JavaScript, TypeScript, HTML, CSS, React, Next.js, Redux, Tailwind CSS, Vite, Node.js, Express, NestJS, MongoDB, PostgreSQL, Docker, GitHub Actions, Vitest, Git, Linux, Ubuntu, VS Code, GitHub" />
+
+<img src="https://raw.githubusercontent.com/Mouad-MCH/Mouad-MCH/design/05-focus.svg" width="100%" alt="Areas of focus: building FlahaaPro and Baz Academy; exploring AI and LLMs, Linux system administration and CAD." />
+
+<img src="https://raw.githubusercontent.com/Mouad-MCH/Mouad-MCH/design/06-activity.svg" width="100%" alt="Activity — live from GitHub" />
+
+<img src="https://streak-stats.demolab.com?user=Mouad-MCH&hide_border=true&background=00000000&ring=cfe3ff&fire=cfe3ff&currStreakLabel=f5f5f7&sideLabels=a1a1a6&currStreakNum=f5f5f7&sideNums=f5f5f7&dates=6e6e73&stroke=30363d" alt="Mouad Charadi — contribution streak" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mouad-MCH&hide_border=true&bg_color=00000000&color=6e6e73&title_color=f5f5f7&line=cfe3ff&point=ffffff&area=true&area_color=cfe3ff" alt="Mouad Charadi — contribution activity graph" />
+
+<img src="https://raw.githubusercontent.com/Mouad-MCH/Mouad-MCH/design/07-principles.svg" width="100%" alt="Principles: type-safe code, pixel-perfect UI, schema-first data, useful AI, tested logic, dockerised delivery." />
+
+<img src="https://raw.githubusercontent.com/Mouad-MCH/Mouad-MCH/design/08-contact.svg" width="100%" alt="Say hello — let's build something together: a SaaS, a website, or an AI feature headed for production." />
+
+<a href="https://mostaql.com/u/Mouad_MCH_021"><img src="https://raw.githubusercontent.com/Mouad-MCH/Mouad-MCH/design/09-btn-mostaql.svg" alt="Mostaql" /></a>
+<a href="https://www.linkedin.com/in/mouad-charadi-b8b636316/"><img src="https://raw.githubusercontent.com/Mouad-MCH/Mouad-MCH/design/09-btn-linkedin.svg" alt="LinkedIn" /></a>
+<a href="mailto:mouadcharadi021@gmail.com"><img src="https://raw.githubusercontent.com/Mouad-MCH/Mouad-MCH/design/09-btn-email.svg" alt="Email — mouadcharadi021@gmail.com" /></a>
+<a href="https://github.com/Mouad-MCH"><img src="https://raw.githubusercontent.com/Mouad-MCH/Mouad-MCH/design/09-btn-github.svg" alt="GitHub" /></a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%26+Node.js+Engineer;Building+Real-World+Applications;Always+Learning+%26+Improving" alt="Typing SVG" />
-
-<br/><br/>
-
----
-
-<h2>01 — About Me</h2>
-
-<p>
-I am a Full-Stack Developer focused on building modern, scalable
-and user-friendly web applications.
-</p>
-
-<p>
-I work across the frontend and backend, developing complete solutions
-from interactive interfaces to secure APIs and database architectures.
-</p>
-
-<p>
-Currently working on <b>Flahaa</b>, a farm workforce management
-platform designed to simplify farm administration and operations.
-</p>
+<details>
+<summary><sub>Profile — in plain text</sub></summary>
 
 <br/>
 
----
+<div align="left">
 
-<h2>02 — Architecture & Technologies</h2>
+### Mouad Charadi — Full-Stack Web Developer
 
-<h3>Frontend</h3>
+**Mouad Charadi** (GitHub: [@Mouad-MCH](https://github.com/Mouad-MCH)) is a Full-Stack Web Developer based in Morocco, trained at École Numérique Ahmed Al Hansali (ENAA). He builds products end-to-end with the MERN stack, Next.js, NestJS and TypeScript, and freelances on Mostaql.
 
-<img src="https://skillicons.dev/icons?i=react,vite,js,ts,html,css,tailwind" />
+| | |
+|---|---|
+| **Role** | Full-Stack Web Developer · Freelancer |
+| **Location** | Morocco |
+| **Training** | École Numérique Ahmed Al Hansali (ENAA) |
+| **Frontend** | React, Next.js, Redux Toolkit, Tailwind CSS, Vite, GSAP |
+| **Backend** | Node.js, Express, NestJS, JWT |
+| **Data** | MongoDB, PostgreSQL |
+| **Delivery** | Docker, GitHub Actions, Vitest, Linux |
+| **Languages** | Darija, French, English |
+| **Freelance** | [Mostaql](https://mostaql.com/u/Mouad_MCH_021) |
+| **LinkedIn** | [linkedin.com/in/mouad-charadi-b8b636316](https://www.linkedin.com/in/mouad-charadi-b8b636316/) |
+| **Email** | [mouadcharadi021@gmail.com](mailto:mouadcharadi021@gmail.com) |
 
-<h3>Backend</h3>
+#### Featured projects
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+| Project | Description | Stack |
+|---|---|---|
+| **[FlahaaPro](https://github.com/Mouad-MCH)** (فلاحة برو) | SaaS for agricultural worker management: attendance, task assignment, payroll and PDF payslips — ENAA final-year project | MERN, JWT, TypeScript |
+| **[Baz Academy](https://github.com/Mouad-MCH)** (أكاديمية باز) | Arabic e-learning platform with RAG-based AI features | Next.js, NestJS |
+| **[AniVerse](https://github.com/Mouad-MCH)** | Anime discovery SPA using the Jikan API | React 19, Redux Toolkit, React Router v7 |
+| **[InvoiceFund / Crowdfunder](https://github.com/Mouad-MCH)** | Crowdfunding single-page application | React, Redux Toolkit |
+| **[SubLedger API](https://github.com/Mouad-MCH)** | FinTech backend API with full test coverage | Node.js, Express, MongoDB, Vitest |
 
-<h3>Tools & Development</h3>
+#### Frequently asked
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
+**Who is Mouad Charadi?**
+A Full-Stack Web Developer from Morocco, trained at ENAA, who builds products end-to-end with MERN, Next.js, NestJS and TypeScript.
 
-<p>
-<b>Additional technologies:</b>
-<br/>
-Mongoose · JWT · Zustand · TanStack Query · Axios · Zod ·
-Cloudinary · Nodemailer · PDFKit · Swagger · Vitest · Supertest
-</p>
+**What is he building?**
+FlahaaPro, a MERN SaaS for agricultural worker management, and Baz Academy, an Arabic e-learning platform with RAG-based AI features.
 
-<br/>
+**Which technologies does he use?**
+React, Next.js, Redux, Tailwind CSS and GSAP on the frontend; Node.js, Express and NestJS on the backend; MongoDB and PostgreSQL for data; Docker, GitHub Actions and Vitest for delivery.
 
----
+**What else is he interested in?**
+AI and LLMs, Linux system administration and CAD — with a background in physics (electronics). Daily driver: Ubuntu on a ThinkPad T460s.
 
-<h2>03 — What I Build</h2>
-
-<table>
-<tr>
-<td width="50%">
-
-<h3>🌐 Full-Stack Applications</h3>
-
-Complete web applications with modern frontend architectures,
-backend APIs and database integration.
-
-</td>
-<td width="50%">
-
-<h3>⚙️ Backend Engineering</h3>
-
-REST APIs, authentication, authorization,
-data management and application security.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<h3>🎨 Frontend Development</h3>
-
-Responsive interfaces, reusable components,
-state management and smooth user experiences.
-
-</td>
-<td width="50%">
-
-<h3>🗄️ Database Management</h3>
-
-Data modeling, MongoDB, Mongoose,
-validation and structured application data.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<h2>04 — Featured Project</h2>
-
-<h3>🌱 Flahaa — Farm Workforce Management Platform</h3>
-
-<p>
-A full-stack platform designed to simplify and centralize
-farm workforce management.
-</p>
-
-<b>Key Features</b>
-
-- Multi-farm administration
-- Worker and supervisor management
-- Attendance tracking
-- Task assignment and monitoring
-- Payroll management
-- Farm management dashboards
-- Secure authentication and role-based authorization
-- API documentation with Swagger
-
-<b>Technology Stack</b>
-
-React 19 · Vite · Node.js · Express 5 · MongoDB · Mongoose ·
-Tailwind CSS · Zustand · TanStack Query · JWT
-
-<p>
-<a href="https://github.com/Mouad-MCH/Flahaa">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
-
-<br/>
-
----
-
-<h2>05 — GitHub Activity</h2>
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Mouad-MCH&show_icons=true&hide_border=true&bg_color=00000000&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff"
-  height="165"
-  alt="GitHub Statistics"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mouad-MCH&layout=compact&hide_border=true&bg_color=00000000&title_color=36BCF7&text_color=ffffff"
-  height="165"
-  alt="Most Used Languages"
-/>
-
-<br/><br/>
-
-<img
-  src="https://streak-stats.demolab.com?user=Mouad-MCH&hide_border=true&background=00000000&ring=36BCF7&fire=36BCF7&currStreakLabel=ffffff&sideLabels=a1a1a6&currStreakNum=ffffff&sideNums=ffffff&dates=6e6e73"
-  alt="GitHub Contribution Streak"
-/>
-
-<br/><br/>
-
-<img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Mouad-MCH&hide_border=true&bg_color=00000000&color=6e6e73&title_color=36BCF7&line=36BCF7&point=ffffff&area=true"
-  alt="GitHub Contribution Activity"
-/>
-
-<br/>
-
----
-
-<h2>06 — Engineering Principles</h2>
-
-<p>
-  <img src="https://img.shields.io/badge/Clean_Code-181717?style=flat-square" />
-  <img src="https://img.shields.io/badge/Reusable_Components-181717?style=flat-square" />
-  <img src="https://img.shields.io/badge/REST_APIs-181717?style=flat-square" />
-  <img src="https://img.shields.io/badge/Secure_Development-181717?style=flat-square" />
-  <img src="https://img.shields.io/badge/Scalable_Architecture-181717?style=flat-square" />
-  <img src="https://img.shields.io/badge/Continuous_Learning-181717?style=flat-square" />
-</p>
-
-<br/>
-
----
-
-<h2>07 — Let's Connect</h2>
-
-<p>
-<a href="https://github.com/Mouad-MCH">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
-
-<br/>
-
-<p>
-<i>"Turning ideas into useful software, one commit at a time."</i>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Mouad-MCH&label=PROFILE+VIEWS&color=36BCF7&style=flat-square" alt="Profile Views" />
+**How can I contact Mouad Charadi?**
+By email at mouadcharadi021@gmail.com, on [LinkedIn](https://www.linkedin.com/in/mouad-charadi-b8b636316/), or through [Mostaql](https://mostaql.com/u/Mouad_MCH_021).
 
 </div>
 
-<details>
-<summary><b>Profile — in plain text</b></summary>
-
-### Mouad — Full-Stack Developer
-
-Mouad (GitHub: [@Mouad-MCH](https://github.com/Mouad-MCH)) is a Full-Stack Developer focused on building modern web applications using React, Node.js, Express and MongoDB.
-
-| Category | Details |
-|---|---|
-| Role | Full-Stack Developer |
-| Main Project | Flahaa — Farm Workforce Management |
-| Frontend | React, Vite, JavaScript, TypeScript, Tailwind CSS |
-| Backend | Node.js, Express |
-| Database | MongoDB, Mongoose |
-| State Management | Zustand, TanStack Query |
-| Authentication | JWT |
-| Tools | Git, GitHub, Docker, Postman |
-| Testing | Vitest, Supertest |
-| API Documentation | Swagger |
-
-### Frequently Asked
-
-**What does Mouad build?**
-
-Full-stack web applications, REST APIs and management platforms.
-
-**What technologies does he use?**
-
-React, Vite, Node.js, Express, MongoDB, Mongoose, Tailwind CSS and JavaScript.
-
-**What is Flahaa?**
-
-Flahaa is a farm workforce management platform featuring worker management, attendance tracking, task assignment, payroll and farm administration.
-
-**Where can I find his projects?**
-
-Visit [Mouad-MCH on GitHub](https://github.com/Mouad-MCH).
-
 </details>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Mouad-MCH&label=views&color=30363d&style=flat-square" alt="Profile views" />
+
+</div>
