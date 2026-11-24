@@ -1,11 +1,12 @@
 <!--
   Mouad Charadi — Full-Stack Web Developer
+  Portfolio: https://mch-22.vercel.app
   MERN & Next.js · NestJS · TypeScript · SaaS · Arabic e-learning · RAG-based AI features
 -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mouad-MCH/Mouad-MCH/design/01-hero.svg" width="100%" alt="Mouad Charadi — Full-Stack Web Developer in Morocco. MERN, Next.js, NestJS, TypeScript, PostgreSQL, GSAP." />
+<a href="https://mch-22.vercel.app"><img src="design/01-hero.svg" width="100%" alt="Mouad Charadi — Full-Stack Web Developer in Morocco. MERN, Next.js, NestJS, TypeScript, PostgreSQL, GSAP." /></a>
 
 <p>
 <b>Mouad Charadi</b> is a <b>Full-Stack Web Developer</b> based in Morocco.<br/>
@@ -14,30 +15,31 @@ with the <b>MERN stack</b> <i>(MongoDB · Express · React · Node.js)</i>, <b>N
 Trained at <b>École Numérique Ahmed Al Hansali (ENAA)</b> · freelancing on <a href="https://mostaql.com/u/Mouad_MCH_021"><b>Mostaql</b></a>.
 </p>
 
-<img src="https://raw.githubusercontent.com/Mouad-MCH/Mouad-MCH/design/02-architecture.svg" width="100%" alt="How I build: Next.js interface, NestJS typed API with JWT, MongoDB and PostgreSQL data, AI and RAG features, Docker with CI and Vitest — TypeScript everywhere." />
+<img src="design/02-architecture.svg" width="100%" alt="How I build: Next.js interface, NestJS typed API with JWT, MongoDB and PostgreSQL data, AI and RAG features, Docker with CI and Vitest — TypeScript everywhere." />
 
-<img src="https://raw.githubusercontent.com/Mouad-MCH/Mouad-MCH/design/03-craft.svg" width="100%" alt="The work: SaaS platforms, APIs, interfaces, Arabic and RTL, delivery. Currently refining RAG features, TypeScript, testing, motion and Linux." />
+<img src="design/03-craft.svg" width="100%" alt="The work: SaaS platforms, APIs, interfaces, Arabic and RTL, delivery. Currently refining RAG features, TypeScript, testing, motion and Linux." />
 
-<img src="https://raw.githubusercontent.com/Mouad-MCH/Mouad-MCH/design/04-tools.svg" width="100%" alt="Tools: JavaScript, TypeScript, HTML, CSS, React, Next.js, Redux, Tailwind, Vite, GSAP, Node.js, Express, NestJS, MongoDB, PostgreSQL, Docker, GitHub Actions, Vitest, Linux, Git." />
+<img src="design/04-tools.svg" width="100%" alt="Tools: JavaScript, TypeScript, HTML, CSS, React, Next.js, Redux, Tailwind, Vite, GSAP, Node.js, Express, NestJS, MongoDB, PostgreSQL, Docker, GitHub Actions, Vitest, Linux, Git." />
 
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,redux,tailwind,vite,nodejs,express,nestjs,mongodb,postgres,docker,githubactions,vitest,git,linux,ubuntu,vscode,github&perline=11" alt="JavaScript, TypeScript, HTML, CSS, React, Next.js, Redux, Tailwind CSS, Vite, Node.js, Express, NestJS, MongoDB, PostgreSQL, Docker, GitHub Actions, Vitest, Git, Linux, Ubuntu, VS Code, GitHub" />
 
-<img src="https://raw.githubusercontent.com/Mouad-MCH/Mouad-MCH/design/05-focus.svg" width="100%" alt="Areas of focus: building FlahaaPro and Baz Academy; exploring AI and LLMs, Linux system administration and CAD." />
+<img src="design/05-focus.svg" width="100%" alt="Areas of focus: building FlahaaPro and Baz Academy; exploring AI and LLMs, Linux system administration and CAD." />
 
-<img src="https://raw.githubusercontent.com/Mouad-MCH/Mouad-MCH/design/06-activity.svg" width="100%" alt="Activity — live from GitHub" />
+<img src="design/06-activity.svg" width="100%" alt="Activity — live from GitHub" />
 
 <img src="https://streak-stats.demolab.com?user=Mouad-MCH&hide_border=true&background=00000000&ring=cfe3ff&fire=cfe3ff&currStreakLabel=f5f5f7&sideLabels=a1a1a6&currStreakNum=f5f5f7&sideNums=f5f5f7&dates=6e6e73&stroke=30363d" alt="Mouad Charadi — contribution streak" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mouad-MCH&hide_border=true&bg_color=00000000&color=6e6e73&title_color=f5f5f7&line=cfe3ff&point=ffffff&area=true&area_color=cfe3ff" alt="Mouad Charadi — contribution activity graph" />
 
-<img src="https://raw.githubusercontent.com/Mouad-MCH/Mouad-MCH/design/07-principles.svg" width="100%" alt="Principles: type-safe code, pixel-perfect UI, schema-first data, useful AI, tested logic, dockerised delivery." />
+<img src="design/07-principles.svg" width="100%" alt="Principles: type-safe code, pixel-perfect UI, schema-first data, useful AI, tested logic, dockerised delivery." />
 
-<img src="https://raw.githubusercontent.com/Mouad-MCH/Mouad-MCH/design/08-contact.svg" width="100%" alt="Say hello — let's build something together: a SaaS, a website, or an AI feature headed for production." />
+<img src="design/08-contact.svg" width="100%" alt="Say hello — let's build something together: a SaaS, a website, or an AI feature headed for production." />
 
-<a href="https://mostaql.com/u/Mouad_MCH_021"><img src="https://raw.githubusercontent.com/Mouad-MCH/Mouad-MCH/design/09-btn-mostaql.svg" alt="Mostaql" /></a>
-<a href="https://www.linkedin.com/in/mouad-charadi-b8b636316/"><img src="https://raw.githubusercontent.com/Mouad-MCH/Mouad-MCH/design/09-btn-linkedin.svg" alt="LinkedIn" /></a>
-<a href="mailto:mouadcharadi021@gmail.com"><img src="https://raw.githubusercontent.com/Mouad-MCH/Mouad-MCH/design/09-btn-email.svg" alt="Email — mouadcharadi021@gmail.com" /></a>
-<a href="https://github.com/Mouad-MCH"><img src="https://raw.githubusercontent.com/Mouad-MCH/Mouad-MCH/design/09-btn-github.svg" alt="GitHub" /></a>
+<a href="https://mch-22.vercel.app"><img src="design/09-btn-portfolio.svg" alt="Portfolio" /></a>
+<a href="https://mostaql.com/u/Mouad_MCH_021"><img src="design/09-btn-mostaql.svg" alt="Mostaql" /></a>
+<a href="https://www.linkedin.com/in/mouad-charadi-b8b636316/"><img src="design/09-btn-linkedin.svg" alt="LinkedIn" /></a>
+<a href="mailto:mouadcharadi021@gmail.com"><img src="design/09-btn-email.svg" alt="Email — mouadcharadi021@gmail.com" /></a>
+<a href="https://github.com/Mouad-MCH"><img src="design/09-btn-github.svg" alt="GitHub" /></a>
 
 <br/>
 
@@ -62,6 +64,7 @@ Trained at <b>École Numérique Ahmed Al Hansali (ENAA)</b> · freelancing on <a
 | **Data** | MongoDB, PostgreSQL |
 | **Delivery** | Docker, GitHub Actions, Vitest, Linux |
 | **Languages** | Darija, French, English |
+| **Portfolio** | [mch-22.vercel.app](https://mch-22.vercel.app) |
 | **Freelance** | [Mostaql](https://mostaql.com/u/Mouad_MCH_021) |
 | **LinkedIn** | [linkedin.com/in/mouad-charadi-b8b636316](https://www.linkedin.com/in/mouad-charadi-b8b636316/) |
 | **Email** | [mouadcharadi021@gmail.com](mailto:mouadcharadi021@gmail.com) |
@@ -91,7 +94,7 @@ React, Next.js, Redux, Tailwind CSS and GSAP on the frontend; Node.js, Express a
 AI and LLMs, Linux system administration and CAD — with a background in physics (electronics). Daily driver: Ubuntu on a ThinkPad T460s.
 
 **How can I contact Mouad Charadi?**
-By email at mouadcharadi021@gmail.com, on [LinkedIn](https://www.linkedin.com/in/mouad-charadi-b8b636316/), or through [Mostaql](https://mostaql.com/u/Mouad_MCH_021).
+By email at mouadcharadi021@gmail.com, on [LinkedIn](https://www.linkedin.com/in/mouad-charadi-b8b636316/), through his portfolio at [mch-22.vercel.app](https://mch-22.vercel.app), or on [Mostaql](https://mostaql.com/u/Mouad_MCH_021).
 
 </div>
 
